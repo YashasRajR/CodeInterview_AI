@@ -1,3 +1,9 @@
+<!-- profile-card:start -->
+<p align="center">
+  <a href="https://github.com/YashasRajR"><img src="https://raw.githubusercontent.com/YashasRajR/YashasRajR/main/cards/headers/CodeInterview_AI.svg" width="100%" alt="CodeInterview AI" /></a>
+</p>
+<!-- profile-card:end -->
+
 # CodeInterview AI
 
 An AI mock-interview platform that reads your resume, asks technical questions about **your** projects and skills, evaluates each answer, and tracks your progress over time. It runs entirely on your own computer: the LLM runs locally through [Ollama](https://ollama.com), so it needs **no API key** and your resume never leaves your machine.
